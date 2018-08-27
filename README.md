@@ -1,7 +1,6 @@
 # Projects-and-papers
 
-This page is my github catalogue:  
-the repository links to my other repos.   
+This page is my github catalogue which links to other repos of mine.   
 
 ## Projects
 * 2017.11  **An online judge demo for web course design**   
