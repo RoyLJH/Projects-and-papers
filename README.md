@@ -27,4 +27,8 @@ https://github.com/RoyLJH/Seam-Carving-OpenCV3-implemention
 * 08 CVPR  
 **Recovering Consistent Video Depth Maps via Bundle Optimization**   
 Guofeng Zhang, Jiaya Jia, Tien-Tsin Wong, Hujun Bao  
-https://github.com/RoyLJH/Depth-Recovery-zju
+https://github.com/RoyLJH/Depth-Recovery-zju  
+
+
+## Other projects  
+Find some other interesting projects in repo [Toys and fun](https://github.com/RoyLJH/Toys-and-fun).  
