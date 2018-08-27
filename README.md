@@ -1,7 +1,7 @@
 # Projects-and-papers
 
-This repository is a catalogue linking to other repositories.  
-I put some of my projects, including papers implemented here, as a record of self-improvement.
+This page is my github catalogue:  
+the repository links to my other repos.   
 
 ## Projects
 * 2017.11  **An online judge demo for web course design**   
@@ -17,7 +17,7 @@ Building a naive image retrieval system based on several traditional methods.
 A project for ZheJiang University Summer Camp. Recover depth images from color image sequence.
 
 
-## Papers Implemented 
+## Papers Read 
 
 * 07 Siggraph   
 **Seam Carving for Content-Aware Image Resizing**   
