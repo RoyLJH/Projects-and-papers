@@ -9,11 +9,11 @@ Just a front end demo of an online judge. Using raw JS and html.
   
 * 2018.5 **An image retrieval system for search technology course design**   
 [image retrieval](https://github.com/RoyLJH/OpenCV3-Image-Retrieval-System)  
-Building a naive image retrieval system based on several traditional methods. 
+Built a naive image retrieval system based on several traditional methods. 
 
 * 2018.8 **Depth Recovery Project**  
 [depth recovery zju](https://github.com/RoyLJH/Depth-Recovery-zju)  
-A project for ZheJiang University Summer Camp. Recover depth images from color image sequence.
+A project of ZheJiang University Summer Camp, to recover depth images from color image sequence.
 
 
 ## Papers Read 
